@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    font-size: 30px;
+    color: salmon;
+}
+h2{
+    color: sandybrown;
+}
+.big{
+    font-size: 60px;
+}
+span{
+    color: slategray;
+}
