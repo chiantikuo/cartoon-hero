@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+header{
+    background-color: cadetblue;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+h1, h2{
+    font-family: 'Grenze Gotisch', cursive;
+}
+
+header h1{
+    color: cornsilk;
+}
+header img{
+    border-radius: 150px;
+    width: 300px;
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+main img{
+    max-width: 100%;
+}
+
+footer{
+    background-color: cadetblue;
+    text-align: center;
+    color: cornsilk;
+}
+a{
+    color: cadetblue;
+}
